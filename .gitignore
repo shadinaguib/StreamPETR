@@ -1,0 +1,3 @@
+data
+results_inference
+ckpts/fcos3d_vovnet_imgbackbone-remapped.pth
